@@ -1,0 +1,1612 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Doonoyz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-15 17:48+0200\n"
+"PO-Revision-Date: 2009-04-15 18:13+0100\n"
+"Last-Translator: Jeremy MOULIN <jeremy.moulin@doonoyz.com>\n"
+"Language-Team: Doonoyz <contact@doonoyz.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:32
+msgid "Andorra"
+msgstr "Andorre"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:33
+msgid "United Arab Emirates"
+msgstr "Emirats Arabes Unis"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:34
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:35
+msgid "Antigua and Barbuda"
+msgstr "Antigua et Barbuda"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:36
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:37
+msgid "Albania"
+msgstr "Albanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:38
+msgid "Armenia"
+msgstr "Arménie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:39
+msgid "Netherlands Antilles"
+msgstr "Antille Néerlandaises"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:40
+msgid "Angola"
+msgstr "Angola"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:41
+msgid "Antarctica"
+msgstr "Antarctique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:42
+msgid "Argentina"
+msgstr "Argentine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:43
+msgid "American Samoa"
+msgstr "Samoa américaines"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:44
+msgid "Austria"
+msgstr "Autriche"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:45
+msgid "Australia"
+msgstr "Australie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:46
+msgid "Aruba"
+msgstr "Aruba"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:47
+msgid "Aland Islands"
+msgstr "Îles Aland"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:48
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:49
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie Herzégovine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:50
+msgid "Barbados"
+msgstr "Barbade"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:51
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:52
+msgid "Belgium"
+msgstr "Belgique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:53
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:54
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:55
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:56
+msgid "Burundi"
+msgstr "Burundi"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:57
+msgid "Benin"
+msgstr "Bénin"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:58
+msgid "Saint Barthelemy"
+msgstr "Saint Barthélémy"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:59
+msgid "Bermuda"
+msgstr "Bermudes"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:60
+msgid "Brunei"
+msgstr "Brunei Darussalam"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:61
+msgid "Bolivia"
+msgstr "Bolivie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:62
+msgid "Brazil"
+msgstr "Brézil"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:63
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:64
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:65
+msgid "Bouvet Island"
+msgstr "Île Bouvet"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:66
+msgid "Botswana"
+msgstr "Botswana"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:67
+msgid "Belarus"
+msgstr "Bélarus"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:68
+msgid "Belize"
+msgstr "Bélize"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:69
+msgid "Canada"
+msgstr "Canada"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:70
+msgid "Cocos Islands"
+msgstr "Iles Cocos"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:71
+msgid "Democratic Republic of the Congo"
+msgstr "République Démocratique du Congo"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:72
+msgid "Central African Republic"
+msgstr "République Centrafricaine du Congo"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:73
+msgid "Republic of the Congo"
+msgstr "République du Congo"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:74
+msgid "Switzerland"
+msgstr "Suisse"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:75
+msgid "Ivory Coast"
+msgstr "Côte d'Ivoire"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:76
+msgid "Cook Islands"
+msgstr "Îles Cook"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:77
+msgid "Chile"
+msgstr "Chili"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:78
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:79
+msgid "China"
+msgstr "Chine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:80
+msgid "Colombia"
+msgstr "Colombie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:81
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:82
+msgid "Cuba"
+msgstr "Cuba"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:83
+msgid "Cape Verde"
+msgstr "Cap Vert"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:84
+msgid "Christmas Island"
+msgstr "Île Christmas"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:85
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:86
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:87
+msgid "Germany"
+msgstr "Allemagne"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:88
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:89
+msgid "Denmark"
+msgstr "Danemark"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:90
+msgid "Dominica"
+msgstr "Dominique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:91
+msgid "Dominican Republic"
+msgstr "République Dominicaine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:92
+msgid "Algeria"
+msgstr "Algérie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:93
+msgid "Ecuador"
+msgstr "Équateur"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:94
+msgid "Estonia"
+msgstr "Estonie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:95
+msgid "Egypt"
+msgstr "Egypte"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:96
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:97
+msgid "Eritrea"
+msgstr "Erythrée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:98
+msgid "Spain"
+msgstr "Espagne"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:99
+msgid "Ethiopia"
+msgstr "Ethiopie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:100
+msgid "Finland"
+msgstr "Finlande"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:101
+msgid "Fiji"
+msgstr "Fiji"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:102
+msgid "Falkland Islands"
+msgstr "Îles Malouines"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:103
+msgid "Micronesia"
+msgstr "Micronésie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:104
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:105
+msgid "France"
+msgstr "France"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:106
+msgid "Gabon"
+msgstr "Gabon"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:107
+msgid "United Kingdom"
+msgstr "Royaume Uni"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:108
+msgid "Grenada"
+msgstr "Grenades"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:109
+msgid "Georgia"
+msgstr "Géorgie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:110
+msgid "French Guiana"
+msgstr "Guinée Française"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:111
+msgid "Guernsey"
+msgstr "Guernesey"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:112
+msgid "Ghana"
+msgstr "Ghana"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:113
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:114
+msgid "Greenland"
+msgstr "Groënland"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:115
+msgid "Gambia"
+msgstr "Gambie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:116
+msgid "Guinea"
+msgstr "Guinée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:117
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:118
+msgid "Equatorial Guinea"
+msgstr "Guinée Equatoriale"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:119
+msgid "Greece"
+msgstr "Grèce"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:120
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Géorgie du Sud et Sud des Iles Sandwich"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:121
+msgid "Guatemala"
+msgstr "Guatémala"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:122
+msgid "Guam"
+msgstr "Guam"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:123
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:124
+msgid "Guyana"
+msgstr "Guyane"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:125
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:126
+msgid "Heard Island and McDonald Islands"
+msgstr "Îles Heard et MacDonald"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:127
+msgid "Honduras"
+msgstr "Honduras"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:128
+msgid "Croatia"
+msgstr "Croatie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:129
+msgid "Haiti"
+msgstr "Haiti"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:130
+msgid "Hungary"
+msgstr "Hongrie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:131
+msgid "Indonesia"
+msgstr "Indonésie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:132
+msgid "Ireland"
+msgstr "Irlande"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:133
+msgid "Israel"
+msgstr "Israël"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:134
+msgid "Isle of Man"
+msgstr "Île de Man"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:135
+msgid "India"
+msgstr "Inde"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:136
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l'océan Indien"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:137
+msgid "Iraq"
+msgstr "Iraq"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:138
+msgid "Iran"
+msgstr "Iran"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:139
+msgid "Iceland"
+msgstr "Islande"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:140
+msgid "Italy"
+msgstr "Italie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:141
+msgid "Jersey"
+msgstr "Jersey"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:142
+msgid "Jamaica"
+msgstr "Jamaiïque"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:143
+msgid "Jordan"
+msgstr "Jordanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:144
+msgid "Japan"
+msgstr "Japon"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:145
+msgid "Kenya"
+msgstr "Kenya"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:146
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:147
+msgid "Cambodia"
+msgstr "Cambodge"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:148
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:149
+msgid "Comoros"
+msgstr " Comores"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:150
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts et Nevis"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:151
+msgid "North Korea"
+msgstr "Corée du Nord"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:152
+msgid "South Korea"
+msgstr "Corée du Sud"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:153
+msgid "Kuwait"
+msgstr "Koweït"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:154
+msgid "Cayman Islands"
+msgstr "Îles Caïmans"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:155
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:156
+msgid "Laos"
+msgstr "Laos"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:157
+msgid "Lebanon"
+msgstr "Liban"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:158
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:159
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:160
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:161
+msgid "Liberia"
+msgstr "Libéria"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:162
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:163
+msgid "Lithuania"
+msgstr "Lithuanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:164
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:165
+msgid "Latvia"
+msgstr "Lettonie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:166
+msgid "Libya"
+msgstr "Libye"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:167
+msgid "Morocco"
+msgstr "Maroc"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:168
+msgid "Monaco"
+msgstr "Monaco"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:169
+msgid "Moldova"
+msgstr "Moldovie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:170
+msgid "Montenegro"
+msgstr "Monténégro"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:171
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:172
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:173
+msgid "Marshall Islands"
+msgstr "Iles Marshall"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:174
+msgid "Macedonia"
+msgstr "Macédoine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:175
+msgid "Mali"
+msgstr "Mali"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:176
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:177
+msgid "Mongolia"
+msgstr "Mongolie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:178
+msgid "Macao"
+msgstr "Macao"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:179
+msgid "Northern Mariana Islands"
+msgstr "Nord des Iles Marina"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:180
+msgid "Martinique"
+msgstr "Martinique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:181
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:182
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:183
+msgid "Malta"
+msgstr "Malte"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:184
+msgid "Mauritius"
+msgstr "Île Maurice"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:185
+msgid "Maldives"
+msgstr "Maldives"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:187
+msgid "Mexico"
+msgstr "Mexique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:188
+msgid "Malaysia"
+msgstr "Malaisie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:189
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:190
+msgid "Namibia"
+msgstr "Namibie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:191
+msgid "New Caledonia"
+msgstr "Nouvelle Calédonie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:192
+msgid "Niger"
+msgstr "Niger"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:193
+msgid "Norfolk Island"
+msgstr "Iles Norfolk"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:194
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:195
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:196
+msgid "Netherlands"
+msgstr "Pays Bas"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:197
+msgid "Norway"
+msgstr "Norvège"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:198
+msgid "Nepal"
+msgstr "Népal"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:199
+msgid "Nauru"
+msgstr "Nauru"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:200
+msgid "Niue"
+msgstr "Niue"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:201
+msgid "New Zealand"
+msgstr "Nouvelle Zélande"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:202
+msgid "Oman"
+msgstr "Oman"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:203
+msgid "Panama"
+msgstr "Panama"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:204
+msgid "Peru"
+msgstr "Pérou"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:205
+msgid "French Polynesia"
+msgstr "Polynésie Française"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:206
+msgid "Papua New Guinea"
+msgstr "Papouasie Nouvelle Guinée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:207
+msgid "Philippines"
+msgstr "Philippines"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:208
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:209
+msgid "Poland"
+msgstr "Pologne"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:210
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre et Miquelon"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:211
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:212
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:213
+msgid "Palestinian Territory"
+msgstr "Territoitre Palestinien"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:214
+msgid "Portugal"
+msgstr "Portugal"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:215
+msgid "Palau"
+msgstr "Palaos"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:216
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:217
+msgid "Qatar"
+msgstr "Qatar"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:218
+msgid "Reunion"
+msgstr "Réunion"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:219
+msgid "Romania"
+msgstr "Roumanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:220
+msgid "Serbia"
+msgstr "Serbie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:221
+msgid "Russia"
+msgstr "Russie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:222
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:223
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:224
+msgid "Solomon Islands"
+msgstr "Îles Salomon"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:225
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:226
+msgid "Sudan"
+msgstr "Soudan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:227
+msgid "Sweden"
+msgstr "Suède"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:228
+msgid "Singapore"
+msgstr "Singapour"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:229
+msgid "Saint Helena"
+msgstr "Saint Hélène"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:230
+msgid "Slovenia"
+msgstr "Slovénie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:231
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard et Île Jan Mayen"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:232
+msgid "Slovakia"
+msgstr "Slovaquie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:233
+msgid "Sierra Leone"
+msgstr "Sierra Léone"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:234
+msgid "San Marino"
+msgstr "Saint-Marin"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:235
+msgid "Senegal"
+msgstr "Sénégal"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:236
+msgid "Somalia"
+msgstr "Somalie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:237
+msgid "Suriname"
+msgstr "Suriname"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:238
+msgid "Sao Tome and Principe"
+msgstr "São Tomé et Príncipe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:239
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:240
+msgid "Syria"
+msgstr "Syrie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:241
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:242
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turques et Caïques"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:243
+msgid "Chad"
+msgstr "Tchad"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:244
+msgid "French Southern Territories"
+msgstr "Terres Australes Françaises"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:245
+msgid "Togo"
+msgstr "Togo"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:246
+msgid "Thailand"
+msgstr "Thailand"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:247
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:248
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:249
+msgid "East Timor"
+msgstr "Timor oriental"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:250
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:251
+msgid "Tunisia"
+msgstr "Tunisie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:252
+msgid "Tonga"
+msgstr "Tonga"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:253
+msgid "Turkey"
+msgstr "Turquie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:254
+msgid "Trinidad and Tobago"
+msgstr "Trinidad et Tobago"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:255
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:256
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:257
+msgid "Tanzania"
+msgstr "Tanzanie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:258
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:259
+msgid "Uganda"
+msgstr "Ouganda"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:260
+msgid "United States Minor Outlying Islands"
+msgstr "Îles Mineures Éloignées des États-Unis"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:261
+msgid "United States"
+msgstr "Etats Unis"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:262
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:263
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:264
+msgid "Vatican"
+msgstr "Vatican"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:265
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent et les Grenadines"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:266
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:267
+msgid "British Virgin Islands"
+msgstr "Îles Vierges britanniques"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:268
+msgid "U.S. Virgin Islands"
+msgstr "Îles Vierges des États-Unis"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:269
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:270
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:271
+msgid "Wallis and Futuna"
+msgstr "Wallis et Futuna"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:272
+msgid "Samoa"
+msgstr "Samoa"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:273
+msgid "Yemen"
+msgstr "Yémen"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:274
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:275
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:276
+msgid "Zambia"
+msgstr "Zambie"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:277
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\LocationService.php:278
+msgid "Serbia and Montenegro"
+msgstr "Serbie et Monténégro"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:318
+#: Files\VertrigoServ\www\core\Twindoo\User.php:323
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:130
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:131
+msgid "Invitation"
+msgstr "Invitation"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:319
+msgid "A user has invited you to join his group. Click this link to create an account:"
+msgstr "Un utilisateur vous invite à rejoindre son groupe. Cliquez sur le lien pour créer un compte:"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:321
+msgid "See you soon on Doonoyz."
+msgstr "A bientôt sur Doonoyz."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:338
+msgid "Welcome to Doonoyz"
+msgstr "Bienvenue sur Doonoyz"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:339
+msgid "To confirm, please click on this link:"
+msgstr "Pour confirmer, veuillez cliquer sur ce lien:"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:340
+msgid "Thanks for your registration, see you soon on Doonoyz!"
+msgstr "Merci pour votre inscription, à bientôt sur Doonoyz!"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\User.php:342
+msgid "New account"
+msgstr "Nouveau compte"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:61
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:109
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:193
+msgid "Passwords do not match."
+msgstr "Les mots de passe ne correspondent pas."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:67
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:68
+msgid "Settings"
+msgstr "Paramètres"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:72
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:137
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:205
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:372
+msgid "Password"
+msgstr "Mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:73
+msgid "Click here to change password"
+msgstr "Cliquez ici pour changer de mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:74
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:291
+msgid "Confirm password"
+msgstr "Confirmez le mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:75
+msgid "Save"
+msgstr "Enregistrer"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:77
+msgid "I want to unregister my account"
+msgstr "Je veux me désinscrire"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:107
+msgid "Your account has been created"
+msgstr "Votre compte a été créé"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:112
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:184
+msgid "Login seems invalid or you are already in our database!"
+msgstr "Le login semble erroné ou déjà dans notre base de donnée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:116
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:187
+msgid "Your last name and first name are required!"
+msgstr "Votre nom et votre prénom sont requis !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:121
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:125
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:167
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:284
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:440
+msgid "This URL does not exist"
+msgstr "Cette adresse n'existe pas"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:132
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:202
+msgid "Register"
+msgstr "Inscription"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:133
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:203
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:253
+msgid "Mail"
+msgstr "Mail"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:134
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:204
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:368
+msgid "Login"
+msgstr "Login"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:135
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:208
+msgid "Last Name"
+msgstr "Nom"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:136
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:209
+msgid "First name"
+msgstr "Prénom"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:138
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:206
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:164
+msgid "Your account have been activated!"
+msgstr "Votre compte a été activé !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:179
+msgid "A mail has been sent. You have to accept your subscription by clicking on the link."
+msgstr "Un mail vous a été envoyé. Vous validerez votre inscription en cliquant sur le lien de confirmation."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:181
+msgid "Mail seems invalid or you are already in our database!"
+msgstr "L'adresse email semble incorrecte ou déjà dans notre base de donnée !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:190
+msgid "Security code isn't valid"
+msgstr "Le code de sécurité est invalide"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:200
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:201
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:250
+msgid "Subscription"
+msgstr "Inscription"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:207
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:236
+msgid "Forgotten Password"
+msgstr "Mot de passe oublié"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:237
+msgid "Click on this link to reinit your password:"
+msgstr "Cliquez sur le lien pour réinitialiser votre mot de passe:"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:238
+msgid "You'll be able to create a new one. See you soon on Doonoyz."
+msgstr "Vous pourrez en créer un nouveau. A bientôt sur Doonoyz."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:241
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:249
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:287
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:288
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:243
+msgid "An email was sent, please read it to change your password"
+msgstr "Un mail vous a été envoyé, vous devez le lire pour changer votre mot de passe."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:245
+msgid "This e-mail address is not valid"
+msgstr "Cette adresse mail n'existe pas"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:251
+msgid "Please enter your e-mail address to change your password"
+msgstr "Entrez votre adresse mail pour changer de mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:252
+msgid "Submit"
+msgstr "Envoyer"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:274
+msgid "Check your passwords, they do not match."
+msgstr "Vérifiez vos mots de passe, ils diffèrent."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:279
+msgid "Your password has been changed successfully"
+msgstr "Votre mot de passe a été modifié avec succès"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:289
+msgid "Please enter a new password"
+msgstr "Entrez un nouveau mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:290
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:292
+msgid "Change"
+msgstr "Changer"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:311
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:333
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:340
+msgid "OpenID login failed"
+msgstr "Connexion OpenID échouée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:320
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:353
+msgid "Login failed, check your login/password."
+msgstr "Connexion échouée, vérifiez votre login/mot de passe"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:323
+msgid "Your account isn't active."
+msgstr "Votre compte est inactif."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:361
+msgid "OpenID login cancelled"
+msgstr "Connexion OpenID annulée"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:367
+msgid "Connect"
+msgstr "Connexion"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:369
+msgid "Connection"
+msgstr "Connexion"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:370
+msgid "Doonoyz Account"
+msgstr "Compte Doonoyz"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:371
+msgid "Mail or Login"
+msgstr "Mail ou Login"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:373
+msgid "Login with OpenID!"
+msgstr "Connexion avec OpenID !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:374
+msgid "Remember Me?"
+msgstr "Se souvenir de moi ?"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:375
+msgid "Forgotten password?"
+msgstr "Mot de passe oublié ?"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:376
+msgid "No account? Click here to register."
+msgstr "Pas de compte ? Cliquez ici pour vous enregistrer !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:412
+msgid "Are you sure you want to leave us and close your account?"
+msgstr "Êtes-vous sur de vouloir nous quitter et fermer votre compte ?"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:418
+msgid "A mail has been sent to you, you have to click the link inside to unsubscribe."
+msgstr "Un mail vous a été envoyé. Vous devrez cliquer sur le lien pour confirmer votre désinscription"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:424
+msgid "Thanks for your participation to Doonoyz"
+msgstr "Merci pour votre participation à Doonoyz."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:425
+msgid "You received this mail because you asked us to delete your account. Click this link to confirm this request:"
+msgstr "Vous recevez cet email après une demande de suppression de compte. Cliquez sur le lien pour confirmation:"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:426
+msgid "Sorry to see you go. See you soon on Doonoyz."
+msgstr "Désolé de vous voir partir. A bientôt sur Doonoyz."
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:429
+msgid "Unregistration"
+msgstr "Désinscription"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:436
+msgid "Your account has been deleted successfully, see you later!"
+msgstr "Votre compte a été supprimé avec succès, à plus tard !"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:446
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:453
+msgid "Unregister"
+msgstr "Désinscription"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:447
+msgid "Yes, close this account"
+msgstr "Oui, fermer ce compte"
+
+#: f:\Program
+#: Files\VertrigoServ\www\core\Twindoo\Controller\WsController.php:448
+msgid "No, it was just a mistake, forget that"
+msgstr "Non, c'est une erreur, oublie"
+

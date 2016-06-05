@@ -1,0 +1,31 @@
+<!-- somewhat inspired by java checkstyle -->
+<phpcheckstyle-configuration>
+    <test name="noTabs"/>
+    <test name="noShortPhpCodeTag"/>
+    <test name="noShellComments"/>
+    <test name="lineLength">
+        <property name="maxLineLength" value="110"/>
+    </test>
+
+    <test name="controlStructElse">
+        <property name="position" value="sl"/>
+    </test>
+
+    <test name="docBlocks">
+        <property name="excludePrivateMembers"/>
+    </test>
+
+    <test name="controlStructNeedCurly"/>
+    <test name="controlStructOpenCurly">
+        <property name="position" value="sl"/>
+    </test>
+
+    <test name="funcDefinitionOpenCurly">
+        <property name="position" value="nl"/>
+    </test>
+    <test name="whiteSpaceSurroundsOperators"/> <!-- this excludes "!" -->
+
+    <!-- not implemented
+    <test name="noEmptyBlocks"/>
+    -->
+</phpcheckstyle-configuration>

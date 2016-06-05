@@ -1,0 +1,282 @@
+
+File: ./test/data/data1.php 
+	Line:9: Function call should not have a whitespace between function name and opening paranthesis
+	Line:10: Docblock missing
+	Line:12: Provide whitespace before '='
+	Line:13: Docblock missing
+	Line:13: '{' should be on a new line.
+	Line:18: Docblock missing
+
+File: ./test/data/master.php 
+	Line:3: Line contains more than 110 characters
+	Line:4: Provide whitespace before '='
+	Line:10: 'elseif' should not be followed by one space
+	Line:14: 'else' should be in the same line as '}'
+	Line:14: 'else' should not be followed by one space
+	Line:15: '}' should be on a new line
+	Line:17: Provide whitespace before '='
+	Line:19: Should not have whitespace after {
+	Line:19: Should not have whitespace before }
+
+File: ./test/allTests.php 
+
+File: ./test/TokenUtils_test.php 
+	Line:14: Docblock missing
+	Line:20: Docblock missing
+	Line:26: Docblock missing
+	Line:30: Docblock missing
+	Line:35: Docblock missing
+	Line:43: Docblock missing
+	Line:54: 'for' should not be followed by one space
+	Line:62: Docblock missing
+
+File: ./src/reporter/XmlFormatReporter.php 
+	Line:11: 'if' should not be followed by one space
+	Line:51: All arguments with default values should be at the end
+	Line:87: Provide whitespace before '='
+	Line:87: Provide whitespace after '='
+	Line:121: Provide whitespace before '='
+	Line:121: Provide whitespace after '='
+	Line:127: 'if' should not be followed by one space
+	Line:129: 'else' should not be followed by one space
+	Line:140: 'if' should not be followed by one space
+
+File: ./src/reporter/PlainFormatReporter.php 
+	Line:11: 'if' should not be followed by one space
+	Line:85: 'if' should not be followed by one space
+	Line:92: 'if' should not be followed by one space
+	Line:100: 'if' should not be followed by one space
+
+File: ./src/reporter/Reporter.php 
+	Line:39: 'if' should not be followed by one space
+
+File: ./src/util/Utility.php 
+	Line:54: 'if' should not be followed by one space
+	Line:64: 'if' should not be followed by one space
+	Line:66: 'if' should not be followed by one space
+	Line:87: 'if' should not be followed by one space
+	Line:121: 'if' should not be followed by one space
+	Line:141: 'if' should not be followed by one space
+	Line:146: 'if' should not be followed by one space
+	Line:155: 'if' should not be followed by one space
+	Line:156: 'if' should not be followed by one space
+	Line:176: Provide whitespace before '='
+	Line:176: Provide whitespace after '='
+	Line:180: 'if' should not be followed by one space
+	Line:181: 'while' should not be followed by one space
+	Line:182: 'if' should not be followed by one space
+	Line:188: 'if' should not be followed by one space
+	Line:190: 'else' should not be followed by one space
+	Line:196: 'if' should not be followed by one space
+	Line:215: 'if' should not be followed by one space
+	Line:220: 'if' should not be followed by one space
+	Line:226: 'while' should not be followed by one space
+	Line:228: 'if' should not be followed by one space
+	Line:233: 'if' should not be followed by one space
+
+File: ./src/CheckStyleConfig.php 
+	Line:12: 'if' should not be followed by one space
+	Line:69: 'if' should not be followed by one space
+	Line:73: 'while' should not be followed by one space
+	Line:74: 'if' should not be followed by one space
+	Line:104: 'if' should not be followed by one space
+	Line:212: 'if' should not be followed by one space
+	Line:240: 'if' should not be followed by one space
+	Line:297: 'if' should not be followed by one space
+	Line:318: 'if' should not be followed by one space
+	Line:319: 'if' should not be followed by one space
+	Line:320: 'if' should not be followed by one space
+	Line:323: 'else' should not be followed by one space
+	Line:342: 'switch' should not be followed by one space
+	Line:351: 'if' should not be followed by one space
+
+File: ./src/TokenUtils.php 
+	Line:11: 'if' should not be followed by one space
+	Line:67: 'if' should not be followed by one space
+	Line:94: 'if' should not be followed by one space
+	Line:117: 'if' should not be followed by one space
+	Line:139: 'if' should not be followed by one space
+	Line:165: 'while' should not be followed by one space
+	Line:168: 'if' should not be followed by one space
+	Line:170: 'if' should not be followed by one space
+	Line:173: 'else' should not be followed by one space
+	Line:176: 'else' should not be followed by one space
+	Line:201: 'while' should not be followed by one space
+	Line:204: 'if' should not be followed by one space
+	Line:206: 'if' should not be followed by one space
+	Line:209: 'else' should not be followed by one space
+	Line:212: 'else' should not be followed by one space
+	Line:267: 'if' should not be followed by one space
+	Line:274: 'if' should not be followed by one space
+	Line:278: 'if' should not be followed by one space
+	Line:280: 'if' should not be followed by one space
+	Line:283: 'if' should not be followed by one space
+	Line:285: 'if' should not be followed by one space
+	Line:287: 'if' should not be followed by one space
+	Line:289: 'elseif' should not be followed by one space
+	Line:290: 'if' should not be followed by one space
+	Line:300: 'while' should not be followed by one space
+	Line:303: 'if' should not be followed by one space
+	Line:305: 'if' should not be followed by one space
+	Line:307: 'elseif' should not be followed by one space
+	Line:310: 'else' should not be followed by one space
+	Line:314: 'else' should not be followed by one space
+	Line:352: 'if' should not be followed by one space
+	Line:363: Docblock missing
+	Line:366: 'if' should not be followed by one space
+	Line:368: 'else' should not be followed by one space
+	Line:378: Docblock missing
+	Line:381: 'if' should not be followed by one space
+	Line:383: 'if' should not be followed by one space
+	Line:384: 'if' should not be followed by one space
+	Line:385: 'if' should not be followed by one space
+	Line:388: 'else' should not be followed by one space
+	Line:400: Docblock missing
+	Line:404: 'if' should not be followed by one space
+	Line:406: 'if' should not be followed by one space
+	Line:407: 'if' should not be followed by one space
+	Line:408: 'if' should not be followed by one space
+	Line:411: 'else' should not be followed by one space
+	Line:423: Docblock missing
+	Line:427: 'if' should not be followed by one space
+	Line:428: 'if' should not be followed by one space
+	Line:439: Docblock missing
+	Line:442: 'if' should not be followed by one space
+	Line:443: 'if' should not be followed by one space
+	Line:454: Docblock missing
+	Line:457: 'if' should not be followed by one space
+	Line:467: Docblock missing
+	Line:470: 'switch' should not be followed by one space
+
+File: ./src/styleErrors.inc.php 
+
+File: ./src/PHPCheckstyle.php 
+	Line:11: 'if' should not be followed by one space
+	Line:23: 'if' should not be followed by one space
+	Line:140: 'if' should not be followed by one space
+	Line:142: 'else' should not be followed by one space
+	Line:151: 'if' should not be followed by one space
+	Line:156: 'foreach' should not be followed by one space
+	Line:157: 'if' should not be followed by one space
+	Line:164: 'else' should not be followed by one space
+	Line:179: 'foreach' should not be followed by one space
+	Line:180: 'if' should not be followed by one space
+	Line:192: 'if' should not be followed by one space
+	Line:215: 'if' should not be followed by one space
+	Line:282: 'while' should not be followed by one space
+	Line:286: 'if' should not be followed by one space
+	Line:290: 'if' should not be followed by one space
+	Line:293: 'else' should not be followed by one space
+	Line:293: 'if' should not be followed by one space
+	Line:299: 'if' should not be followed by one space
+	Line:308: 'if' should not be followed by one space
+	Line:319: 'if' should not be followed by one space
+	Line:321: 'if' should not be followed by one space
+	Line:322: 'while' should not be followed by one space
+	Line:323: 'if' should not be followed by one space
+	Line:327: 'else' should not be followed by one space
+	Line:333: 'if' should not be followed by one space
+	Line:339: 'if' should not be followed by one space
+	Line:342: 'if' should not be followed by one space
+	Line:369: 'if' should not be followed by one space
+	Line:371: 'else' should not be followed by one space
+	Line:372: 'if' should not be followed by one space
+	Line:373: 'while' should not be followed by one space
+	Line:374: 'if' should not be followed by one space
+	Line:379: 'if' should not be followed by one space
+	Line:380: 'if' should not be followed by one space
+	Line:381: Line contains more than 110 characters
+	Line:382: 'else' should not be followed by one space
+	Line:384: 'if' should not be followed by one space
+	Line:385: 'if' should not be followed by one space
+	Line:411: 'switch' should not be followed by one space
+	Line:420: 'if' should not be followed by one space
+	Line:421: 'if' should not be followed by one space
+	Line:424: 'if' should not be followed by one space
+	Line:432: 'if' should not be followed by one space
+	Line:441: 'if' should not be followed by one space
+	Line:446: 'elseif' should not be followed by one space
+	Line:447: 'if' should not be followed by one space
+	Line:451: 'if' should not be followed by one space
+	Line:459: 'elseif' should not be followed by one space
+	Line:461: 'if' should not be followed by one space
+	Line:473: 'if' should not be followed by one space
+	Line:475: 'if' should not be followed by one space
+	Line:479: 'else' should not be followed by one space
+	Line:484: 'if' should not be followed by one space
+	Line:489: 'if' should not be followed by one space
+	Line:493: 'if' should not be followed by one space
+	Line:506: 'if' should not be followed by one space
+	Line:511: 'if' should not be followed by one space
+	Line:513: 'else' should not be followed by one space
+	Line:514: 'if' should not be followed by one space
+	Line:521: 'if' should not be followed by one space
+	Line:526: 'if' should not be followed by one space
+	Line:534: 'if' should not be followed by one space
+	Line:535: 'if' should not be followed by one space
+	Line:539: 'if' should not be followed by one space
+	Line:556: 'if' should not be followed by one space
+	Line:564: 'if' should not be followed by one space
+	Line:566: 'elseif' should not be followed by one space
+	Line:570: 'if' should not be followed by one space
+	Line:578: 'if' should not be followed by one space
+	Line:580: 'elseif' should not be followed by one space
+	Line:583: 'if' should not be followed by one space
+	Line:586: 'if' should not be followed by one space
+	Line:587: 'if' should not be followed by one space
+	Line:590: 'elseif' should not be followed by one space
+	Line:597: 'if' should not be followed by one space
+	Line:624: 'switch' should not be followed by one space
+	Line:629: 'if' should not be followed by one space
+	Line:631: Shell/Perl like comments (starting with '#') are not allowed
+	Line:632: 'if' should not be followed by one space
+	Line:644: 'if' should not be followed by one space
+	Line:646: 'if' should not be followed by one space
+	Line:667: 'if' should not be followed by one space
+	Line:669: 'elseif' should not be followed by one space
+	Line:671: 'else' should not be followed by one space
+	Line:688: 'if' should not be followed by one space
+	Line:698: 'if' should not be followed by one space
+	Line:724: 'if' should not be followed by one space
+	Line:762: 'if' should not be followed by one space
+	Line:784: 'if' should not be followed by one space
+	Line:788: 'if' should not be followed by one space
+	Line:803: 'if' should not be followed by one space
+	Line:807: 'if' should not be followed by one space
+	Line:812: 'if' should not be followed by one space
+	Line:829: 'if' should not be followed by one space
+	Line:830: 'if' should not be followed by one space
+	Line:834: 'else' should not be followed by one space
+	Line:835: 'if' should not be followed by one space
+	Line:843: 'if' should not be followed by one space
+	Line:844: 'if' should not be followed by one space
+	Line:851: 'if' should not be followed by one space
+	Line:852: 'if' should not be followed by one space
+	Line:879: 'if' should not be followed by one space
+	Line:884: 'while' should not be followed by one space
+	Line:891: 'if' should not be followed by one space
+	Line:896: 'if' should not be followed by one space
+	Line:897: 'if' should not be followed by one space
+	Line:898: 'if' should not be followed by one space
+	Line:901: 'else' should not be followed by one space
+	Line:919: 'while' should not be followed by one space
+	Line:926: 'if' should not be followed by one space
+	Line:950: 'if' should not be followed by one space
+	Line:962: 'if' should not be followed by one space
+	Line:1005: 'if' should not be followed by one space
+	Line:1023: 'if' should not be followed by one space
+	Line:1027: 'if' should not be followed by one space
+	Line:1052: 'if' should not be followed by one space
+	Line:1054: 'if' should not be followed by one space
+	Line:1067: 'if' should not be followed by one space
+	Line:1082: 'while' should not be followed by one space
+	Line:1084: 'if' should not be followed by one space
+	Line:1089: 'if' should not be followed by one space
+	Line:1115: 'if' should not be followed by one space
+	Line:1119: 'if' should not be followed by one space
+
+File: ./run.php 
+	Line:38: 'for' should not be followed by one space
+	Line:39: 'switch' should not be followed by one space
+	Line:69: 'if' should not be followed by one space
+	Line:74: 'if' should not be followed by one space

@@ -1,0 +1,85 @@
+#!@php_bin@
+<?php
+/**
+ * PHP Parser and UML/XMI generator. Reverse-engineering tool.
+ *
+ * A package to scan PHP files and directories, and get an UML/XMI representation
+ * of the parsed code.
+ *
+ * PHP version 5
+ *
+ * @category PHP
+ * @package  PHP_UML
+ * @author   Baptiste AUTIN <ohlesbeauxjours@yahoo.fr>
+ * @author   David JEAN LOUIS <izi@php.net>
+ * @license  http://www.gnu.org/licenses/lgpl.html LGPL License 3
+ * @version  SVN: $Revision: 98 $
+ * @link     http://pear.php.net/package/PHP_UML
+ * @link     http://www.baptisteautin.com/projects/PHP_UML/
+ * @since    $Date: 2009-01-07 14:20:32 +0100 (mer., 07 janv. 2009) $
+ */
+
+/**
+ * We depend on Console_CommandLine to do the job.
+ */
+require_once 'Console/CommandLine.php';
+require_once 'PHP/UML.php';
+
+
+// Build our parser
+
+if (is_dir('@data_dir@/PHP_UML')) {
+    $xmlfile = '@data_dir@/PHP_UML/data/phpuml.xml';
+} else {
+    // case when the package was not installed with pear
+    $xmlfile = dirname(__FILE__) . '/../data/phpuml.xml'; 
+}
+$parser = Console_CommandLine::fromXMLFile($xmlfile);
+
+$parser->renderer->line_width = 80;
+
+try {
+    $result = $parser->parse();
+    $uml    = new PHP_UML();
+
+    if (count($result->args['input']) == 0) {
+        $parser->displayUsage();
+    }
+
+    foreach ($result->args['input'] as $item) {
+        $uml->setInput($result->args['input']);
+    }
+
+    $output    = $result->options['output'];
+    $version   = $result->options['xmiversion'];
+    $modelName = $result->options['modelname'];
+    $encoding  = $result->options['encoding'];
+ 
+    $uml->deploymentView = $result->options['deploymentview'];
+    $uml->componentView  = $result->options['componentview'];
+    $uml->dollar         = $result->options['dollar'];
+    $uml->docblocks      = $result->options['docblocks'];
+ 
+    if ($result->options['match'] !== null) {
+        $uml->setMatchPatterns($result->options['match']);
+    }
+    if ($result->options['ignore'] !== null) {
+        $uml->setIgnorePatterns($result->options['ignore']);
+    }
+
+    if ($uml->getXMI()=='') {
+        $uml->parse($modelName);
+        $uml->generateXMI($version, $encoding);
+    }
+
+    if ($version<2 && $result->options['format']!='xmi') {
+        echo 'Cannot generate in format "html" or "php" with XMI version 1. '.
+            'Select XMI version 2 only.';
+    } else {
+        echo $uml->export($result->options['format'], $output);
+    }
+
+} catch (Exception $exc) {
+    $parser->displayError($exc->getMessage());
+}
+?>

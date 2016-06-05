@@ -1,0 +1,121 @@
+Revision By: Ashwin Kumar <ashwink3029@gmail.com>
+Date: 7/11/07
+
+                        Spike PHPCheckstyle Release Notes
+                        ==================================
+
+ * TODO
+   
+   1. Indentation: The tools checks only for existence of tabs in a line. It 
+      does not check that every line follows the 4 space indentation rule.
+      _checkIndentation() could be modified to also check whether amount of 
+      whitespace is an appropriate multiple of 4 or 3 or some value. The desired
+      multiple could be some simple mathematical equation based on the number 
+      of { versus } at any given point in the code.
+   2. Issue with do/while loop: The tool generates wrong errors when a do/while 
+      loop contains a while loop or another do/while loop.
+   3. Global variable naming: Global variable naming convention checks are 
+      not implemented.
+   4. Docblocks: The tool currently checks only for the existence of docblocks 
+      but not for all the required elements within it.
+   5. Some of the tests are not configurable (that is, they are checked, but can not 
+      disable them). They are: "noSpaceAfterFuncCall" and "spaceAfterFuncNameDefn". 
+      (Refer documentation for more details on configurations).
+   6. A MASTER PHP sample file should be made so that any new modifications can 
+      be tested against old results to ensure further reliability.
+   7. Remaining Patches: Function Naming, Exclude Dir
+   8. I'm still not entirely confident that all errors found by the line recreator will
+      show up chronologically, meaning before further token errors are found.
+   9. Multiple src paths should be implemented, which would make a driver class even
+      more useful in that it could prevent processFiles() from overwriting
+      previous work.
+  10. _getAllPhpFiles() should have different options. Sometimes it would be better 
+      to only check the php files that have been recently modified, unless the
+      config file had been changed, etc. It should do only what's necessary to make
+      the checkstyle files correspond correctly. On the other hand, if a php file 
+      has been deleted, what is to be done with the lingering checkstyle file. Perhaps,
+      an intensive directory side-by-side comparison is in order.
+  11. Unix-specific file commands have been made in many places: DIRECTORY_SEPARATOR
+
+Version 0.6.1
+-------------
+
+ * Modifications
+
+   1. The method of parsing the file has changed a bit. The reason for this is
+      that certain error checks are significantly simpler, to both execute and
+      understand, when examining an entire line of text at once. Thus, the
+      master loop in _processFile() essentially recreates text line by line
+      from the tokens for the ease of these specific error checks.
+
+      If, at some point, it is desired to output the actual line when an error
+      is found, this method may need to be replaced by just having all the lines
+      in memory as an array. It would be the only way to output a line of text 
+      corresponding to a certain token. I avoided this for now, because I didn't
+      think it was necessary; putting the entire file into memory again isn't 
+      that burdensome, so if someone wants to output error lines as context,
+      it should be fairly easy to do so.
+
+   2. _processFile() reassembles the original line as it calls _moveToken()
+      _checkLargeLine() now acts in response to this string parser
+      _checkIndentation() now acts in response to this string parser
+      _checkEndBlock() created for '}' checking by string parser
+
+   3. Spike Forum Suggestions Added:
+          - "Add magic methods" - willlo
+          - "static functions and phpdoc" - maciek
+          - "allow user to specify config file" - lenbok
+          - "allow space after '-' for negative numbers" - lenbok
+          - "Configure 'else' to be on same/separate line" - pkolbus
+
+   4. Peeking into previous tokens now will provide the corresponding line numbers.
+      Consult TokenUtils.php for the code changes in peekPrvsToken() and
+      peekPrvsValidToken(). Further testing is required for accuracy.
+
+   5. Several debug flags present for ease of debugging php through html output:
+          - Line isolation - to confirm line is recreated accurately
+          - End Block - to ensure that lines with "}" are appropriate
+          - Previous Tokens - to attest that line numbers are valid
+
+   6. Certain configurations enabled:
+          - spaceAfterControlStmt
+          - spaceAfterSemicolon
+      These tags were previously the default, so now they may be disabled.
+      They are also exempt from the default configuration file. Therefore,
+      test with config/temp1.xml to test the validity of these new configs. 
+
+   7. New Statistics:
+         - Average Errors Per Files (for compiled lists only)
+         - Total Lines
+         - Validity(%) = the fraction of lines of code without errors
+
+   8. The output format has been changed from one large compiled list to
+      a main statistics page, with links to all other indiviual report files.
+      This style allows for more thorough data to be displayed per file.
+         - These format and statistics changes will be seen in the main class,
+           the Xml Reporter, and the xsl sheets that produce the output.
+
+   9. The program now deletes all files in the output directory before
+      beginning its own file creation. This is due to the following: suppose
+      the app is run on src directory A then src directory B; if both directories
+      had a folder name in common, the contents would be merged without
+      any overwriting, which is not desired. Thus, this solution would wipe
+      the output of A before writing that of B. A more elegant solution is possible.
+      See Todo(10).
+
+ * Bug Fixes
+
+   1. Max Line Length: Now skips the negligible lines and exposes error lines.
+      It is no longer disrupted by surrounding comment tokens.
+
+   2. "} on new line": Also no longer disrupted by surrounding comment tokens.
+
+   3. "{} Code block vs. string reference" discrepancy has been somewhat resolved.
+      The string reference check may require further tokens to be able to make
+      accurate differentiations.
+
+Version 0.6
+-----------
+
+This is the very first release of Spike PHPCheckstyle. It is an alpha release.
+

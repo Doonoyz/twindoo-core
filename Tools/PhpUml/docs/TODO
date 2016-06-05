@@ -1,0 +1,12 @@
+           *** TODOs ***
+
+*Features:
+ - special implementation for ecore (Eclipse) tools ?
+ - improvement of the MOF implementation.
+ - UML2 improvements (UML:Profile)
+ - Filtering of packages (only certain packages would be retrieved during the parsing)
+ - User-defined "default/global" package(s)
+
+
+*Implementation:
+ - replacement of the XML concatenation by a DOM generation
